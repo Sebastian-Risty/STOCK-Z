@@ -1,3 +1,5 @@
+# STOCK-Z
+
 -First Discord Bot-                                               
 
 The primary use is to allow users to quickly find stock information as well as a customized search.
